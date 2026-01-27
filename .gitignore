@@ -1,0 +1,17 @@
+# Script logs
+*.log
+setup.log
+debloat.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# OS-specific
+.DS_Store
+Thumbs.db
